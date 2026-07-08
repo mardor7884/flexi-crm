@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Flexi CRM (DentalNetwork)
  * Description:        Flexi-Dent CRM integráció Fluent Forms beküldésekhez — a DentalNetwork landingek közös motorja. A per-site űrlap-konfiguráció a témából érkezik a `flexicrm_forms_config` filteren keresztül.
- * Version:           1.1.0
+ * Version:           1.1.1
  * Author:            MaD Works
  * Requires PHP:      8.0
  * Network:           true

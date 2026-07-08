@@ -62,6 +62,7 @@ teszt-pácienst utána jelezni/töröltetni.
 
 ## Verzió
 
+- **1.1.1** — a MainWP frissítési folyamat éles validálása (PUC self-update próba; nincs viselkedés-változás).
 - **1.1.0** — a kommunikációs log **tárgya (`subject`) a Webform ID** (a korábbi „`<log_prefix>` `<subject>`" helyett); **önfrissítés GitHubról** (plugin-update-checker, `main` ág) → MainWP-ből frissíthető.
 - 1.0.0 — első kiadás.
 
